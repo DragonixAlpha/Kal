@@ -9,6 +9,7 @@ The objective of Kal is to make complex mathematical and cryptic tasks easy and 
 Scope of Kal
 Kal can perform multiple tasks and complex mathematical problems . 
 Here are a list of things Kal can do 
+
  	Set a Timer 
  	Play multiple games
 	Kal tries to guess the number your thinking of in 12 tries
@@ -17,7 +18,6 @@ Here are a list of things Kal can do
 	Hangman
 	Text Based Adventure Game
 	GUI Based Snake Game
-
  	Solve Quadratic Equations 
  	Convert Text to Binary 
  	Convert Text to Morse code 
@@ -37,6 +37,7 @@ Kal requires complete text based input and needs and screen and a speaker for th
 
 Software Requirement
 Kal is based of on Python. There it requires Python 3 and a download of the modules given below :
+
  	Numpy
  	Simple Audio 
  	Tkinter
