@@ -55,6 +55,7 @@ The future of Kal is a full fledged assistant based on voice and audio based Inp
 Conclusion
 In conclusion I would like to say that Kal can be used for multiple functions and solving of complex problems in everyday life . 
 
+Assets for the Code available at - https://drive.google.com/drive/folders/1ojoo_YP3PyvRdCGeKyCQXWdzBs-RQuc4?usp=sharing
 
                                                                           ~ Kartikey Pandey
 
